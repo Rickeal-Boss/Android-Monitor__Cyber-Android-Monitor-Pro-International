@@ -1,7 +1,7 @@
 # Cyber-Android-Monitor-Pro  
 The Ultimate Design GT high performance Device Performance Monitor (System Monitor\Device Info Viewer)
 
-![Device](1.png)
+![Device](1.jpg)
 
 > **⚠️ Important Notice / License Notice**  
 > This project uses the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) license. Please refer to the `LICENSE` file in the project root directory for the full legal text.  
@@ -324,14 +324,14 @@ See details (device-info-viewer-review.html)
 ### APP Screenshots
 ![](2.jpg)
 ![](3.jpg)
-![](4.png)
-![](5.png)
-![](6.png)
-![](7.png)
-![](8.png)
-![](9.png)
+![](4.jpg)
+![](5.jpg)
+![](6.jpg)
+![](7.jpg)
+![](8.jpg)
+![](9.jpg)
 ![](10.jpg)
-![](11.png)
+![](11.jpg)
 ![](12.jpg)
 ![](13.jpg)
 ![](14.jpg)
